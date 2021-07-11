@@ -7,9 +7,7 @@ public class Média_bolsa_v1 {
 		Scanner sn = new Scanner(System.in);
 		
 		// DECLARANDO AS MATRIZES PARA CONTER OS VALORES DAS AÇOES
-		
-		
-		
+	
 		double[][] acao_1 = new double[LINHAS][COLUNAS];
 		int day = 1;
 		
